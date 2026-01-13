@@ -8,7 +8,7 @@ A technical write-up on detecting and mitigating an Evil Twin attack using Nmap 
 * **Affiliation:** ISC2 Candidate 
 
 * **Credential Issued:** Jan 09, 2026[IBMDesign20260112-33-vbpr6p.pdf](https://github.com/user-attachments/files/24597725/IBMDesign20260112-33-vbpr6p.pdf)
-<img width="1085" height="35" alt="image" src="https://github.com/user-attachments/assets/8c791dfc-753f-4622-82a4-91fe07edbb1d" />
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="20f257e0-af1c-4ff4-8cb4-f2443229b77d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ---
