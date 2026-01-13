@@ -1,6 +1,6 @@
 # Evil-Twin-Detection-Writeup
 A technical write-up on detecting and mitigating an Evil Twin attack using Nmap and WPA3 hardening
-# 🛡️ Real-World Evil Twin Attack: Detection & Incident Response
+# 🛡️ Evil Twin Attack Simulation: Detection & Incident Response
 
 ## 👤 Cybersecurity Profile
 * **Professional:** Abdraouf Sendid
