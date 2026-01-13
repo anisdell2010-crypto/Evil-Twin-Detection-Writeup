@@ -8,8 +8,8 @@ A technical write-up on detecting and mitigating an Evil Twin attack using Nmap 
 * **Affiliation:** ISC2 Candidate 
 
 * **Credential Issued:** Jan 09, 2026[IBMDesign20260112-33-vbpr6p.pdf](https://github.com/user-attachments/files/24597725/IBMDesign20260112-33-vbpr6p.pdf)
-https://www.credly.com/badges/20f257e0-af1c-4ff4-8cb4-f2443229b77d/public_url
 
+ **ISC2 Candidate:** https://www.credly.com/badges/20f257e0-af1c-4ff4-8cb4-f2443229b77d/public_url
 ---
 
 
