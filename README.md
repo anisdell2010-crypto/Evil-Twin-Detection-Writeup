@@ -3,7 +3,7 @@ A technical write-up on detecting and mitigating an Evil Twin attack using Nmap 
 # 🛡️ Evil Twin Attack Simulation: Detection & Incident Response
 
 ## 👤 Cybersecurity Profile
-* **Professional:** Abdraouf Sendid
+* **Professional:** r4ouf_s
 * **Certification:** Cybersecurity Fundamentals by IBM SkillsBuild
 * **Affiliation:** ISC2 Candidate 
 
