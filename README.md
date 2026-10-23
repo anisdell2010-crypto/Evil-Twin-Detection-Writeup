@@ -6,8 +6,7 @@ A technical write-up on detecting and mitigating an Evil Twin attack using Nmap 
 * **Professional:** r4ouf_s
 * **Certification:** Cybersecurity Fundamentals by IBM SkillsBuild
 * Ethical Hacker
-Issued by Cisco
-
+Issued by Cisco.
 Introduction to Cybersecurity
 Issued by Cisco
 
