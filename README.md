@@ -11,6 +11,13 @@ A technical write-up on detecting and mitigating an Evil Twin attack using Nmap 
 
  **ISC2 Candidate:** https://www.credly.com/badges/20f257e0-af1c-4ff4-8cb4-f2443229b77d/public_url
 ---
+Ethical Hacker
+Issued by Cisco https://www.credly.com/badges/01549b33-84b6-48b4-81af-d7b2ac54e5a6/public_url
+
+Introduction to Cybersecurity
+Issued by Cisco  https://www.credly.com/badges/287b2ee6-cff8-4d87-ad7c-c494ad518ccf/public_url
+
+
 
 
 ## 🚨 Incident Scenario
