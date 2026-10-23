@@ -5,6 +5,11 @@ A technical write-up on detecting and mitigating an Evil Twin attack using Nmap 
 ## 👤 Cybersecurity Profile
 * **Professional:** r4ouf_s
 * **Certification:** Cybersecurity Fundamentals by IBM SkillsBuild
+* Ethical Hacker
+Issued by Cisco
+Introduction to Cybersecurity
+Issued by Cisco
+
 * **Affiliation:** ISC2 Candidate 
 
 * **Credential Issued:** Jan 09, 2026[IBMDesign20260112-33-vbpr6p.pdf](https://github.com/user-attachments/files/24597725/IBMDesign20260112-33-vbpr6p.pdf)
